@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|c:\\users\\velurupr\\source\\repos\\webapplication1\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|c:\\users\\velurupr\\source\\repos\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|c:\\users\\velurupr\\source\\repos\\webapplication1\\webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|c:\\users\\velurupr\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518888ED-0D01-4276-9A27-AC8651DE4BAF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:27:06.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:26:38.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:26:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:24:08.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

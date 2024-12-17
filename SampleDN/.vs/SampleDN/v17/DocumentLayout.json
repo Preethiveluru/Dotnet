@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|c:\\users\\velurupr\\source\\repos\\sampledn\\sampledn\\ref_and_out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\ref_and_out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|c:\\users\\velurupr\\source\\repos\\sampledn\\sampledn\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|C:\\Users\\velurupr\\source\\repos\\SampleDN\\sampledn\\book1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\book1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|C:\\Users\\velurupr\\source\\repos\\SampleDN\\sampledn\\distinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\distinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|C:\\Users\\velurupr\\source\\repos\\SampleDN\\sampledn\\genric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\genric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|C:\\Users\\velurupr\\source\\repos\\SampleDN\\sampledn\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|C:\\Users\\velurupr\\source\\repos\\SampleDN\\sampledn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|C:\\Users\\velurupr\\source\\repos\\SampleDN\\sampledn\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F15B8-B9C4-47B3-BBF3-B63D6C1F3DA7}|SampleDN\\SampleDN.csproj|solutionrelative:sampledn\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SampleDN||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ref_and_out.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\ref_and_out.cs",
+              "RelativeDocumentMoniker": "SampleDN\\ref_and_out.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\ref_and_out.cs",
+              "RelativeToolTip": "SampleDN\\ref_and_out.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:56:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Animal.cs",
+              "RelativeDocumentMoniker": "SampleDN\\Animal.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Animal.cs",
+              "RelativeToolTip": "SampleDN\\Animal.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:02:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "model.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\model.cs",
+              "RelativeDocumentMoniker": "SampleDN\\model.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\model.cs",
+              "RelativeToolTip": "SampleDN\\model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:59:33.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SampleDN",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\SampleDN.csproj",
+              "RelativeDocumentMoniker": "SampleDN\\SampleDN.csproj",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\SampleDN.csproj",
+              "RelativeToolTip": "SampleDN\\SampleDN.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T04:21:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Distinct.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Distinct.cs",
+              "RelativeDocumentMoniker": "SampleDN\\Distinct.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Distinct.cs",
+              "RelativeToolTip": "SampleDN\\Distinct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:19:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genric.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Genric.cs",
+              "RelativeDocumentMoniker": "SampleDN\\Genric.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Genric.cs",
+              "RelativeToolTip": "SampleDN\\Genric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:57:35.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Program.cs",
+              "RelativeDocumentMoniker": "SampleDN\\Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Program.cs",
+              "RelativeToolTip": "SampleDN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:07:18.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book1.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Book1.cs",
+              "RelativeDocumentMoniker": "SampleDN\\Book1.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Book1.cs",
+              "RelativeToolTip": "SampleDN\\Book1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:06:11.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Program1.cs",
+              "RelativeDocumentMoniker": "SampleDN\\Program1.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\SampleDN\\SampleDN\\Program1.cs",
+              "RelativeToolTip": "SampleDN\\Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:34:25.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

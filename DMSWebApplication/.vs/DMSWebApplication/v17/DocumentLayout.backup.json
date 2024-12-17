@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\dms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\dms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\dms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\dms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\models\\dms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:models\\dms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\dmswebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:dmswebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\controllers\\dmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:controllers\\dmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\dmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:dmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Migrations\\20241212094247_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241212094247_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\dmswebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:dmswebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\dmswebapplication\\migrations\\20241212105722_initialcreates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9A970A-1B42-4D86-B0AC-E33652423E0C}|DMSWebApplication.csproj|solutionrelative:migrations\\20241212105722_initialcreates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:24:39.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "Views\\Shared\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:24:19.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DMSWebApplication",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\DMSWebApplication.csproj",
+              "RelativeDocumentMoniker": "DMSWebApplication.csproj",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\DMSWebApplication.csproj",
+              "RelativeToolTip": "DMSWebApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T12:53:37.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241212105722_InitialCreates.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Migrations\\20241212105722_InitialCreates.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212105722_InitialCreates.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Migrations\\20241212105722_InitialCreates.cs",
+              "RelativeToolTip": "Migrations\\20241212105722_InitialCreates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:57:22.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\patients\\Index.cshtml",
+              "RelativeToolTip": "Views\\patients\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:52:28.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\patients\\Create.cshtml",
+              "RelativeToolTip": "Views\\patients\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:48:40.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "patientsController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Controllers\\patientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\patientsController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Controllers\\patientsController.cs",
+              "RelativeToolTip": "Controllers\\patientsController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAqwEgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:45:42.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\DMS\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DMS\\Index.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\DMS\\Index.cshtml",
+              "RelativeToolTip": "Views\\DMS\\Index.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:39:23.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\DMS\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DMS\\Create.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\DMS\\Create.cshtml",
+              "RelativeToolTip": "Views\\DMS\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:37:19.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DMSController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Controllers\\DMSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DMSController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Controllers\\DMSController.cs",
+              "RelativeToolTip": "Controllers\\DMSController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA9wHkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:24:14.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241212094247_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Migrations\\20241212094247_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212094247_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Migrations\\20241212094247_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241212094247_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:42:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T08:50:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DMSWebApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\DMSWebApplication.csproj",
+              "RelativeDocumentMoniker": "DMSWebApplication.csproj",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\DMSWebApplication.csproj",
+              "RelativeToolTip": "DMSWebApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T06:22:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "patient.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Models\\patient.cs",
+              "RelativeDocumentMoniker": "Models\\patient.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Models\\patient.cs",
+              "RelativeToolTip": "Models\\patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:27:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T10:26:02.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:08:08.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T06:07:42.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:56:30.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T05:51:00.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DMSDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\DMSDbContext.cs",
+              "RelativeDocumentMoniker": "DMSDbContext.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\DMSDbContext.cs",
+              "RelativeToolTip": "DMSDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:45:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DMS.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Models\\DMS.cs",
+              "RelativeDocumentMoniker": "Models\\DMS.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\DMSWebApplication\\Models\\DMS.cs",
+              "RelativeToolTip": "Models\\DMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:44:38.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

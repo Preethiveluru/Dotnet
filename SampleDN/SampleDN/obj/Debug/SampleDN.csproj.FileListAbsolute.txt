@@ -1,0 +1,7 @@
+C:\Users\velurupr\source\repos\SampleDN\SampleDN\bin\Debug\SampleDN.exe.config
+C:\Users\velurupr\source\repos\SampleDN\SampleDN\bin\Debug\SampleDN.exe
+C:\Users\velurupr\source\repos\SampleDN\SampleDN\bin\Debug\SampleDN.pdb
+C:\Users\velurupr\source\repos\SampleDN\SampleDN\obj\Debug\SampleDN.csproj.AssemblyReference.cache
+C:\Users\velurupr\source\repos\SampleDN\SampleDN\obj\Debug\SampleDN.csproj.CoreCompileInputs.cache
+C:\Users\velurupr\source\repos\SampleDN\SampleDN\obj\Debug\SampleDN.exe
+C:\Users\velurupr\source\repos\SampleDN\SampleDN\obj\Debug\SampleDN.pdb

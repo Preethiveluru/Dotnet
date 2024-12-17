@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\samplewebapplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFB1CC8-ECB0-4FDF-8F26-3843F0E15F7D}|SampleWebApplication\\SampleWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\samplewebapplication\\samplewebapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFB1CC8-ECB0-4FDF-8F26-3843F0E15F7D}|SampleWebApplication\\SampleWebApplication.csproj|solutionrelative:samplewebapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFB1CC8-ECB0-4FDF-8F26-3843F0E15F7D}|SampleWebApplication\\SampleWebApplication.csproj|c:\\users\\velurupr\\source\\repos\\samplewebapplication\\samplewebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFB1CC8-ECB0-4FDF-8F26-3843F0E15F7D}|SampleWebApplication\\SampleWebApplication.csproj|solutionrelative:samplewebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\samplewebapplication\\samplewebapplication\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "samplewebapplication\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\samplewebapplication\\samplewebapplication\\Models\\Employee.cs",
+              "RelativeToolTip": "samplewebapplication\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:59:36.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\samplewebapplication\\samplewebapplication\\Program.cs",
+              "RelativeDocumentMoniker": "samplewebapplication\\Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\samplewebapplication\\samplewebapplication\\Program.cs",
+              "RelativeToolTip": "samplewebapplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:59:24.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

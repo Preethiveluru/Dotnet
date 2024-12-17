@@ -1,0 +1,7 @@
+C:\Users\velurupr\source\repos\sproject2\sproject2\bin\Debug\sproject2.exe.config
+C:\Users\velurupr\source\repos\sproject2\sproject2\bin\Debug\sproject2.exe
+C:\Users\velurupr\source\repos\sproject2\sproject2\bin\Debug\sproject2.pdb
+C:\Users\velurupr\source\repos\sproject2\sproject2\obj\Debug\sproject2.csproj.AssemblyReference.cache
+C:\Users\velurupr\source\repos\sproject2\sproject2\obj\Debug\sproject2.csproj.CoreCompileInputs.cache
+C:\Users\velurupr\source\repos\sproject2\sproject2\obj\Debug\sproject2.exe
+C:\Users\velurupr\source\repos\sproject2\sproject2\obj\Debug\sproject2.pdb

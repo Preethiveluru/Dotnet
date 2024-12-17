@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\models\\postpinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:models\\postpinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\models\\pincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:models\\pincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\views\\home\\jsonreader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:views\\home\\jsonreader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|c:\\users\\velurupr\\source\\repos\\readingjson\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6700CB9-3D9D-405B-BEF6-3255FC85EF86}|ReadingJSON.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:22:00.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAnwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:19:09.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:17:55.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostPinResponse.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Models\\PostPinResponse.cs",
+              "RelativeDocumentMoniker": "Models\\PostPinResponse.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Models\\PostPinResponse.cs",
+              "RelativeToolTip": "Models\\PostPinResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:14:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:36:14.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:36:08.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonReader.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Home\\JsonReader.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\JsonReader.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Views\\Home\\JsonReader.cshtml",
+              "RelativeToolTip": "Views\\Home\\JsonReader.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:34:43.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pincode.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Models\\Pincode.cs",
+              "RelativeDocumentMoniker": "Models\\Pincode.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Models\\Pincode.cs",
+              "RelativeToolTip": "Models\\Pincode.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:56:32.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\ReadingJSON\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:39:37.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\velurupr\source\repos\PrettyPrint\bin\Debug\net8.0\PrettyPrint.exe
+C:\Users\velurupr\source\repos\PrettyPrint\bin\Debug\net8.0\PrettyPrint.deps.json
+C:\Users\velurupr\source\repos\PrettyPrint\bin\Debug\net8.0\PrettyPrint.runtimeconfig.json
+C:\Users\velurupr\source\repos\PrettyPrint\bin\Debug\net8.0\PrettyPrint.dll
+C:\Users\velurupr\source\repos\PrettyPrint\bin\Debug\net8.0\PrettyPrint.pdb
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\PrettyPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\PrettyPrint.AssemblyInfoInputs.cache
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\PrettyPrint.AssemblyInfo.cs
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\PrettyPrint.csproj.CoreCompileInputs.cache
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\PrettyPrint.dll
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\refint\PrettyPrint.dll
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\PrettyPrint.pdb
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\PrettyPrint.genruntimeconfig.cache
+C:\Users\velurupr\source\repos\PrettyPrint\obj\Debug\net8.0\ref\PrettyPrint.dll

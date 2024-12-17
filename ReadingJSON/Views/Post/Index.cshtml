@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<ReadingJSON.Models.PostPinResponse>
+@{
+    ViewData["Title"] = "Post Offices Information";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Branch Type</th>
+                <th>Delivery Status</th>
+                <th>Circle</th>
+                <th>District</th>
+                <th>Division</th>
+                <th>Region</th>
+                <th>Block</th>
+                <th>State</th>
+                <th>Country</th>
+                <th>Pincode</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var postPinResponse in Model)
+            {
+                foreach (var postOffice in postPinResponse.PostOffice)
+                {
+                    <tr>
+                        <td>@postOffice.Name</td>
+                        <td>@postOffice.Description</td>
+                        <td>@postOffice.BranchType</td>
+                        <td>@postOffice.DeliveryStatus</td>
+                        <td>@postOffice.Circle</td>
+                        <td>@postOffice.District</td>
+                        <td>@postOffice.Division</td>
+                        <td>@postOffice.Region</td>
+                        <td>@postOffice.Block</td>
+                        <td>@postOffice.State</td>
+                        <td>@postOffice.Country</td>
+                        <td>@postOffice.Pincode</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No post office data available.</p>
+}

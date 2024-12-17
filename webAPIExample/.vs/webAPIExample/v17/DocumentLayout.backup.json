@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|c:\\users\\velurupr\\source\\repos\\webapiexample\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|solutionrelative:controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|c:\\users\\velurupr\\source\\repos\\webapiexample\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|c:\\users\\velurupr\\source\\repos\\webapiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|c:\\users\\velurupr\\source\\repos\\webapiexample\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F104640-9EC3-4734-A149-F1661269279F}|webAPIExample.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitsController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\Controllers\\FruitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitsController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\Controllers\\FruitsController.cs",
+              "RelativeToolTip": "Controllers\\FruitsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:57:11.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:55:57.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:55:54.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webAPIExample\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:55:49.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

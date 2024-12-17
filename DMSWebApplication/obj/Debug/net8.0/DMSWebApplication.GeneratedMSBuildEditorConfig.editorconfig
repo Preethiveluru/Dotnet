@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DMSWebApplication
+build_property.RootNamespace = DMSWebApplication
+build_property.ProjectDir = C:\Users\velurupr\source\repos\DMSWebApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\velurupr\source\repos\DMSWebApplication
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/DMS/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRE1TXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/DMS/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRE1TXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/DMS/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRE1TXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/DMS/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRE1TXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/DMS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRE1TXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/Shared/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/velurupr/source/repos/DMSWebApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ld8wr4w78p

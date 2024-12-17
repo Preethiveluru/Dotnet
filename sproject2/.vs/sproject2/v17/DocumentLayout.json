@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\sproject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2146C51-24C4-4A90-9060-3E2EF8D1F90E}|sproject2\\sproject2.csproj|c:\\users\\velurupr\\source\\repos\\sproject2\\sproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2146C51-24C4-4A90-9060-3E2EF8D1F90E}|sproject2\\sproject2.csproj|solutionrelative:sproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\sproject2\\sproject2\\Program.cs",
+              "RelativeDocumentMoniker": "sproject2\\Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\sproject2\\sproject2\\Program.cs",
+              "RelativeToolTip": "sproject2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:23:20.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
