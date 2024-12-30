@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<webApplicationwebAPIEFwithmvc.Models.PetAnimal>
+
+<h2>Pet Animals</h2>
+
+<a asp-action="Create">Add New Pet</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Pet ID</th>
+            <th>Pet Name</th>
+            <th>Pet Type</th>
+            <th>DOB</th>
+            <th>Is Vegetarian</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pet in Model)
+        {
+            <tr>
+                <td>@pet.petId</td>
+                <td>@pet.petName</td>
+                <td>@pet.petType</td>
+                <td>@pet.DOB</td>
+                <td>@pet.IsVeg</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@pet.petId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@pet.petId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicine Information</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: url('https://source.unsplash.com/1600x900/?medicine,health') no-repeat center center fixed;
+            background-size: cover;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 10px;
+            padding: 20px 30px;
+            width: 80%;
+            max-width: 800px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: #f9a825;
+        }
+
+        .medicine {
+            margin-bottom: 15px;
+        }
+
+        .medicine h2 {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+            color: #ffd54f;
+        }
+
+        .medicine p {
+            margin: 0;
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Medicine Information</h1>
+
+        <div class="medicine">
+            <h2>Paracetamol (Acetaminophen)</h2>
+            <p><strong>Uses:</strong> Reduces fever, relieves mild to moderate pain (e.g., headache, muscle aches, colds).</p>
+        </div>
+
+        <div class="medicine">
+            <h2>Ibuprofen</h2>
+            <p><strong>Uses:</strong> Reduces inflammation, pain, and fever (e.g., arthritis, menstrual cramps, toothaches).</p>
+        </div>
+
+        <div class="medicine">
+            <h2>Amoxicillin</h2>
+            <p><strong>Uses:</strong> Treats bacterial infections (e.g., respiratory infections, urinary tract infections).</p>
+        </div>
+
+        <div class="medicine">
+            <h2>Ciprofloxacin</h2>
+            <p><strong>Uses:</strong> Broad-spectrum antibiotic for bacterial infections (e.g., skin infections, UTIs).</p>
+        </div>
+
+        <div class="medicine">
+            <h2>Amlodipine</h2>
+            <p><strong>Uses:</strong> Treats high blood pressure and angina (chest pain).</p>
+        </div>
+
+        <div class="medicine">
+            <h2>Metformin</h2>
+            <p><strong>Uses:</strong> Lowers blood sugar levels in Type 2 diabetes.</p>
+        </div>
+
+    </div>
+</body>
+</html>
+

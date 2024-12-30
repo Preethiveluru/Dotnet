@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|c:\\users\\velurupr\\source\\repos\\employeeapplication\\controllers\\empmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|solutionrelative:controllers\\empmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|c:\\users\\velurupr\\source\\repos\\employeeapplication\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|solutionrelative:models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|c:\\users\\velurupr\\source\\repos\\employeeapplication\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|solutionrelative:empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|c:\\users\\velurupr\\source\\repos\\employeeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|c:\\users\\velurupr\\source\\repos\\employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|c:\\users\\velurupr\\source\\repos\\employeeapplication\\employeeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|solutionrelative:employeeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|c:\\users\\velurupr\\source\\repos\\employeeapplication\\migrations\\20241227100153_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC25A9EC-FC57-460E-92D9-2C61C99810F9}|EmployeeApplication.csproj|solutionrelative:migrations\\20241227100153_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Controllers\\EmpModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpModelsController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Controllers\\EmpModelsController.cs",
+              "RelativeToolTip": "Controllers\\EmpModelsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:13:52.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T10:04:46.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241227100153_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Migrations\\20241227100153_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241227100153_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Migrations\\20241227100153_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241227100153_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:01:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmpModel.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Models\\EmpModel.cs",
+              "RelativeToolTip": "Models\\EmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:52:04.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeDocumentMoniker": "EmployeeApplication.csproj",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeToolTip": "EmployeeApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T09:51:29.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:51:17.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\EmpDbcontext.cs",
+              "RelativeDocumentMoniker": "EmpDbcontext.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\EmployeeApplication\\EmpDbcontext.cs",
+              "RelativeToolTip": "EmpDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:51:13.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122B0C2D-1F49-425D-9FB5-8A334CD7E448}|..\\WebApplicatonfrontend\\WebApplicatonfrontend.csproj|c:\\users\\velurupr\\source\\repos\\webapplicatonfrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122B0C2D-1F49-425D-9FB5-8A334CD7E448}|..\\WebApplicatonfrontend\\WebApplicatonfrontend.csproj|c:\\users\\velurupr\\source\\repos\\webapplicatonfrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122B0C2D-1F49-425D-9FB5-8A334CD7E448}|..\\WebApplicatonfrontend\\WebApplicatonfrontend.csproj|c:\\users\\velurupr\\source\\repos\\webapplicatonfrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122B0C2D-1F49-425D-9FB5-8A334CD7E448}|..\\WebApplicatonfrontend\\WebApplicatonfrontend.csproj|c:\\users\\velurupr\\source\\repos\\webapplicatonfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122B0C2D-1F49-425D-9FB5-8A334CD7E448}|..\\WebApplicatonfrontend\\WebApplicatonfrontend.csproj|c:\\users\\velurupr\\source\\repos\\webapplicatonfrontend\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|c:\\users\\velurupr\\source\\repos\\webapplicationwebapiefwithmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|c:\\users\\velurupr\\source\\repos\\webapplicationwebapiefwithmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|c:\\users\\velurupr\\source\\repos\\webapplicationwebapiefwithmvc\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|solutionrelative:petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|c:\\users\\velurupr\\source\\repos\\webapplicationwebapiefwithmvc\\controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EFAE8D-B58D-4BC8-B92B-DE7FF812E4FA}|webApplicationwebAPIEFwithmvc.csproj|solutionrelative:controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplicatonfrontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\WebApplicatonfrontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:45:37.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Views\\Home\\create.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplicatonfrontend\\Views\\Home\\create.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Views\\Home\\create.cshtml",
+              "RelativeToolTip": "..\\WebApplicatonfrontend\\Views\\Home\\create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:37:22.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplicatonfrontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\WebApplicatonfrontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:34:37.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\WebApplicatonfrontend\\appsettings.json",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\appsettings.json",
+              "RelativeToolTip": "..\\WebApplicatonfrontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T15:32:57.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApplicatonfrontend\\Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\WebApplicatonfrontend\\Program.cs",
+              "RelativeToolTip": "..\\WebApplicatonfrontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:04:45.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetAnimalsController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\Controllers\\PetAnimalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PetAnimalsController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\Controllers\\PetAnimalsController.cs",
+              "RelativeToolTip": "Controllers\\PetAnimalsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:11:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T10:04:54.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:03:32.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\PetDBContext.cs",
+              "RelativeDocumentMoniker": "PetDBContext.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\webApplicationwebAPIEFwithmvc\\PetDBContext.cs",
+              "RelativeToolTip": "PetDBContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:52:44.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD3ED25-7C7A-42B2-832C-D568A498F5A6}|..\\Medicine_frontend\\Medicine_frontend.csproj|c:\\users\\velurupr\\source\\repos\\medicine_frontend\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD3ED25-7C7A-42B2-832C-D568A498F5A6}|..\\Medicine_frontend\\Medicine_frontend.csproj|c:\\users\\velurupr\\source\\repos\\medicine_frontend\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD3ED25-7C7A-42B2-832C-D568A498F5A6}|..\\Medicine_frontend\\Medicine_frontend.csproj|c:\\users\\velurupr\\source\\repos\\medicine_frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD3ED25-7C7A-42B2-832C-D568A498F5A6}|..\\Medicine_frontend\\Medicine_frontend.csproj|c:\\users\\velurupr\\source\\repos\\medicine_frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD3ED25-7C7A-42B2-832C-D568A498F5A6}|..\\Medicine_frontend\\Medicine_frontend.csproj|c:\\users\\velurupr\\source\\repos\\medicine_frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|c:\\users\\velurupr\\source\\repos\\medicines_management\\medicinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|solutionrelative:medicinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|c:\\users\\velurupr\\source\\repos\\medicines_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|c:\\users\\velurupr\\source\\repos\\medicines_management\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|solutionrelative:controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Migrations\\20241230051532_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241230051532_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|c:\\users\\velurupr\\source\\repos\\medicines_management\\medicines_management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|solutionrelative:medicines_management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|c:\\users\\velurupr\\source\\repos\\medicines_management\\models\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|solutionrelative:models\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|c:\\users\\velurupr\\source\\repos\\medicines_management\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|solutionrelative:models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|c:\\users\\velurupr\\source\\repos\\medicines_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F4B529-D283-4ED1-BC5F-8FA93B372553}|Medicines_Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 107,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\Medicine_frontend\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\Medicine_frontend\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-30T06:35:42.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Medicine_frontend\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "..\\Medicine_frontend\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:43:57.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Medicine_frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Medicine_frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:36:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Medicine_frontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Medicine_frontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:21:58.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Medicine_frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicine_frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Medicine_frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:19:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "Controllers\\MedicinesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:16:46.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241230051532_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Migrations\\20241230051532_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241230051532_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Migrations\\20241230051532_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241230051532_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:15:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Medicines_Management.http",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Medicines_Management.http",
+              "RelativeDocumentMoniker": "Medicines_Management.http",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Medicines_Management.http",
+              "RelativeToolTip": "Medicines_Management.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-30T05:14:14.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T05:10:59.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Models\\Validation.cs",
+              "RelativeDocumentMoniker": "Models\\Validation.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Models\\Validation.cs",
+              "RelativeToolTip": "Models\\Validation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:10:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Models\\Medicine.cs",
+              "RelativeToolTip": "Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:10:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:07:30.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicineDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\MedicineDBContext.cs",
+              "RelativeDocumentMoniker": "MedicineDBContext.cs",
+              "ToolTip": "C:\\Users\\velurupr\\source\\repos\\Medicines_Management\\MedicineDBContext.cs",
+              "RelativeToolTip": "MedicineDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:10:08.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

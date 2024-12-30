@@ -1,0 +1,149 @@
+<!--<div class="container">
+  <h2>Add Pet Animal</h2>-->
+<!-- Form for adding pet -->
+<!--<form (ngSubmit)="addPetAnimal()">
+
+  <div class="form-group">
+    <label for="petId">Pet Id:</label>
+    <input type="text" id="petId" [(ngModel)]="pet.petId" name="petId" class="form-control" required />
+  </div>
+
+
+  <div class="form-group">
+    <label for="petName">Pet Name:</label>
+    <input type="text" id="petName" [(ngModel)]="pet.petName" name="petName" class="form-control" required />
+  </div>
+
+  <div class="form-group">
+    <label for="petType">Pet Type:</label>
+    <input type="text" id="petType" [(ngModel)]="pet.petType" name="petType" class="form-control" required />
+  </div>-->
+<!--<div class="form-group">
+  <label for="dob">Date of Birth:</label>
+  <input type="datetime-local" id="dob" [(ngModel)]="pet.dob" name="dob" class="form-control" required />
+</div>-->
+<!--<div class="form-group">
+      <label for="isVeg">Is Vegetarian:</label>
+      <input type="checkbox" id="isVeg" [(ngModel)]="pet.isVeg" name="isVeg" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Pet</button>
+  </form>
+
+  <div *ngIf="responseMessage" class="alert alert-info">
+    {{ responseMessage }}
+  </div>
+
+  <hr>
+
+  <h3>Pet List</h3>
+  <div *ngIf="petsList.length > 0; else noPets">
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let pet of petsList">
+        <strong>{{ pet.petName }}</strong> ({{ pet.petType }}) -
+        Vegetarian: {{ pet.isVeg ? 'Yes' : 'No' }}
+      </li>
+    </ul>
+  </div>
+
+  <ng-template #noPets>
+    <p>No pets added yet.</p>
+  </ng-template>
+</div>-->
+<div class="container">
+  <h2>Pet Management</h2>
+
+  <!-- Form for adding/updating pet -->
+  <!--<form (ngSubmit)="pet.petId === 0 ? addPetAnimal() : updatePetAnimal()">
+    <div class="form-group">
+      <label for="petId">Pet Id:</label>
+      <input type="number" id="petId" [(ngModel)]="pet.petId" name="petId" class="form-control" [readonly]="pet.petId !== 0" required />
+    </div>
+
+    <div class="form-group">
+      <label for="petName">Pet Name:</label>
+      <input type="text" id="petName" [(ngModel)]="pet.petName" name="petName" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+      <label for="petType">Pet Type:</label>
+      <input type="text" id="petType" [(ngModel)]="pet.petType" name="petType" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+      <label for="isVeg">Is Vegetarian:</label>
+      <input type="checkbox" id="isVeg" [(ngModel)]="pet.isVeg" name="isVeg" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">-->
+  <!--</button>
+  </form>-->
+
+  <form (ngSubmit)="addPetAnimal()">
+    <div class="form-group">
+      <label for="petId">Pet ID:</label>
+      <input type="number"
+             id="petId"
+             [(ngModel)]="pet.petId"
+             name="petId"
+             class="form-control"
+             required />
+    </div>
+
+    <div class="form-group">
+      <label for="petName">Pet Name:</label>
+      <input type="text"
+             id="petName"
+             [(ngModel)]="pet.petName"
+             name="petName"
+             class="form-control"
+             required />
+    </div>
+
+    <div class="form-group">
+      <label for="petType">Pet Type:</label>
+      <input type="text"
+             id="petType"
+             [(ngModel)]="pet.petType"
+             name="petType"
+             class="form-control"
+             required />
+    </div>
+
+    <div class="form-group">
+      <label for="isVeg">Is Vegetarian:</label>
+      <input type="checkbox"
+             id="isVeg"
+             [(ngModel)]="pet.isVeg"
+             name="isVeg" />
+    </div>
+    <button *ngIf="!isEditMode" type="submit" class="btn btn-primary">Add Pet</button>
+    <button *ngIf="isEditMode" type="button" class="btn btn-success" (click)="updatePet()">Update Pet</button>
+    <button *ngIf="isEditMode" type="button" class="btn btn-secondary" (click)="cancelEdit()">Cancel</button>
+
+  </form>
+
+
+
+  <div *ngIf="responseMessage" class="alert alert-info">
+    {{ responseMessage }}
+  </div>
+
+  <hr />
+
+  <h3>Pet List</h3>
+  <div *ngIf="petsList.length > 0; else noPets">
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let pet of petsList">
+        <strong>{{ pet.petName }}</strong> ({{ pet.petType }}) -
+        Vegetarian: {{ pet.isVeg ? 'Yes' : 'No' }}
+        <button (click)="editPet(pet)" class="btn btn-warning btn-sm float-right">Edit</button>
+        <button (click)="deletePet(pet.petId)" class="btn btn-danger btn-sm float-right mr-2">Delete</button>
+      </li>
+    </ul>
+  </div>
+
+  <ng-template #noPets>
+    <p>No pets added yet.</p>
+  </ng-template>
+</div>

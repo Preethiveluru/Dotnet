@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "webApplicationwebAPIEFwithmvc.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\WebApplicatonfrontend\\WebApplicatonfrontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

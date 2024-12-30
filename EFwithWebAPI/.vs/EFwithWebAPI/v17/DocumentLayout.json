@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\velurupr\\source\\repos\\EFwithWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velurupr\\source\\repos\\EFwithWebAPI\\Migrations\\20241217070655_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241217070655_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA70F15-5620-4B96-AD3F-53145BD1D436}|EFwithWebAPI.csproj|c:\\users\\velurupr\\source\\repos\\efwithwebapi\\migrations\\20241217070655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA70F15-5620-4B96-AD3F-53145BD1D436}|EFwithWebAPI.csproj|solutionrelative:migrations\\20241217070655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EA70F15-5620-4B96-AD3F-53145BD1D436}|EFwithWebAPI.csproj|c:\\users\\velurupr\\source\\repos\\efwithwebapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAhwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:43:36.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:43:36.627Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "StudentDbContext.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAkwBEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:33:04.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:33:04.067Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:18:03.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:18:03.446Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Medicines_Management.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Medicine_frontend\\Medicine_frontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

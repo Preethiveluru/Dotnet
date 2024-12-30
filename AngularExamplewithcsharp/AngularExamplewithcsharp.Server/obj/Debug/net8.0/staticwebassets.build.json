@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "1edOLyxn31WkljMoz7RMdAqbeEdMGIIo5I1WmhRoBto=",
+  "Source": "AngularExamplewithcsharp.Server",
+  "BasePath": "_content/AngularExamplewithcsharp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\velurupr\\source\\repos\\AngularExamplewithcsharp\\angularexamplewithcsharp.client\\angularexamplewithcsharp.client.esproj",
+      "Version": 2,
+      "Source": "angularexamplewithcsharp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
